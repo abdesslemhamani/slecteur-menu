@@ -59,8 +59,10 @@ body {
 
 .rotate .fas {
     transform: rotate(180deg);
+    transition: transform 0.2s ease-in-out;
 }
 
 .hide {
     visibility: hidden;
+    /*display: none;*/
 }
