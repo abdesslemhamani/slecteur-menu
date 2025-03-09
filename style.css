@@ -44,7 +44,7 @@ body {
     display: flex;
     align-items: center;
     cursor: pointer;
-    transition: linear 0.4s;
+    transition: padding 0.3s linear;
 }
 
 .social-lists li:hover {
